@@ -38,7 +38,7 @@ theme = 'PaperMod'
   
   # Social links
   socialIcons = [
-    { name = 'github', url = 'https://github.com/Nguyet2139/Nguyet_HUGO' },
+    { name = 'github', url = 'https://github.com/Nguyet2139/Huynh-Thi-Thu-Nguyet' },
     { name = 'twitter', url = 'https://twitter.com/yourusername' },
     { name = 'email', url = 'mailto:gbaxz2861@gmail.com' }
   ]
