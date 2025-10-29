@@ -1,7 +1,7 @@
 [build]
-  command = "hugo --minify"
+  # Thay đổi thành "hugo" để vô hiệu hóa minify
+  command = "hugo" 
   publish = "public"
 
 [build.environment]
-  # Sửa giá trị này thành 0.146.0 HOẶC MỚI HƠN
   HUGO_VERSION = "0.146.0"
